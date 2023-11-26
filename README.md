@@ -9,15 +9,17 @@
 
 ## Project Objectives
 We are building a code evaluator that can take input from the user as follows:
-1- Task description.
-2- Code (solution).
+
+- Task description.
+- Code (solution).
   
 The output should be the following:
-1- Is this code solving the task description? And if not, how close is this code to the task description?
-2- Is this code modularized?
-3- How efficient is this code from the performance, clean code, and readability perspective?
-4- I need make sure that the code contains the main concepts like Preprocessing, splitting the data, training the model, testing the model, and any other section you see suitable.
-5- Ensure that the code is AI-generated.
+
+- Is this code solving the task description? And if not, how close is this code to the task description?
+- Is this code modularized?
+- How efficient is this code from the performance, clean code, and readability perspective?
+- I need make sure that the code contains the main concepts like Preprocessing, splitting the data, training the model, testing the model, and any other section you see suitable.
+- Ensure that the code is AI-generated.
 
 ## Usage
 To use the Code Evaluator, follow these steps:
