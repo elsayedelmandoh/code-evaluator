@@ -36,7 +36,7 @@ To use the Code Evaluator, follow these steps:
         4. Run the Streamlit app: `streamlit run app.py`
    
    - Or visit this site:
-        [Link](https://ai-generated-blog-generator-hdtz5aeasn5h3bgcm93bms.streamlit.app/)
+        [Link](https://code-evaluator-aypzh9o5p2xmsbmeepj8d7.streamlit.app/)
 
 ## Contributing
   Contributions are welcome! Feel free to open issues, submit pull requests, or provide feedback.
