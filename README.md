@@ -8,7 +8,7 @@
 - [Author](#author)
 
 ## Project Objectives
-We are building a code evaluator that can take input from the user as follows:
+This project is a code evaluator that can take input from the user as follows:
 
 - Task description.
 - Code (solution).
