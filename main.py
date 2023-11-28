@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 import time
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 # CASE 1:
 # `Is this code solving the task description`? And if not, how close is this code to the task description?
