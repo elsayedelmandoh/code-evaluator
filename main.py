@@ -3,8 +3,7 @@ import openai
 import time
 import os
 
-openai.api_key = os.getenv("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")
-# openai.api_key = "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"
+openai.api_key = "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"
 
 # CASE 1:
 # `Is this code solving the task description`? And if not, how close is this code to the task description?
