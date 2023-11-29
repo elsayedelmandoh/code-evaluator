@@ -33,7 +33,7 @@ To use the Code Evaluator, follow these steps:
         1. Clone this repository: `git clone https://github.com/elsayedelmandoh/code-evaluator.git`
         2. Navigate to the project directory: `cd code-evaluator`
         3. Install the required dependencies: `pip install -r requirements.txt`
-        4. Run the Streamlit app: `streamlit run app.py`
+        4. Run the Streamlit app: `streamlit run main.py`
    
    - Or visit this site:
         [Link](https://code-evaluator-aypzh9o5p2xmsbmeepj8d7.streamlit.app/)
