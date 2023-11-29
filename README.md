@@ -30,11 +30,22 @@ To use the Code Evaluator, follow these steps:
 ## Hosting
 - Local host:
         The Code Evaluator is designed to run locally. You can set it up on your machine by following these steps:
-        1. Clone this repository: `git clone https://github.com/elsayedelmandoh/code-evaluator.git`
-        2. Navigate to the project directory: `cd code-evaluator`
-        3. Install the required dependencies: `pip install -r requirements.txt`
-        4. Run the Streamlit app: `streamlit run main.py`
-   
+        1. Clone this repository:
+        ```bash
+            git clone https://github.com/elsayedelmandoh/code-evaluator.git
+        ```
+        2. Navigate to the project directory:
+        ```bash
+            cd code-evaluator
+        ```
+        3. Install the required dependencies:
+        ```bash
+            pip install -r requirements.txt
+        ```
+        4. Run the Streamlit app:
+        ```bash
+            streamlit run main.py`
+        ```   
 - Or visit this site:
         [Link](https://code-evaluator-aypzh9o5p2xmsbmeepj8d7.streamlit.app/)
 
