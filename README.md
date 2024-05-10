@@ -50,8 +50,11 @@ To use the Code Evaluator, follow these steps:
         [Link](https://code-evaluator-aypzh9o5p2xmsbmeepj8d7.streamlit.app/)
 
 ## Contributing
-  Contributions are welcome! Feel free to open issues, submit pull requests, or provide feedback.
+
+Contributions are welcome! If you have suggestions, improvements, or additional content to contribute, feel free to open issues, submit pull requests, or provide feedback. 
 
 ## Author
-  Elsayed Elmandoh : [Linkedin](https://www.linkedin.com/in/elsayed-elmandoh-77544428a/).
 
+This repository is maintained by Elsayed Elmandoh, an AI Engineer passionate. You can connect with Elsayed on [LinkedIn](https://www.linkedin.com/in/elsayed-elmandoh-77544428a/) or follow him on [Twitter](https://twitter.com/elsayedelmandoo) for updates and discussions related to APIs.
+
+Happy coding and ChatGPT-3 API!
